@@ -1,0 +1,178 @@
+
+div
+{
+    display: inline-block;
+    box-sizing: border-box;/*לא חורג מגבולות הדיב*/
+}
+
+#head  
+{  
+    width:5%;
+    height: 50%;
+    background-color: rgba(32, 137, 214, 0.93);
+    float:right;
+    margin:1.5%;
+    border-radius: 5%;
+    text-align: center;
+    color:#f0e6e6;
+}
+
+#topinfo 
+{
+    width: 100%;
+    background-color:rgba(255, 186, 196, 0.98);
+    font-size: 120%;
+}
+
+
+#info 
+{
+      width:7%;
+    height: 50%;
+    float:right;
+    margin:1.5%;
+    text-align: center;
+}
+#menue
+{
+    width: 100%;
+    height: 15%;
+    
+}
+
+
+#logo 
+{
+     width: 20%;
+    height: 100%;
+}
+
+#mainlogo 
+{
+    width:100%;
+    height: 100%;
+
+}
+#info1 
+{
+    width: 100%;
+    font-size: 120%;
+}
+
+#face 
+{
+    width: 95%;
+    height: 60%;
+}
+#faceloseinfo
+ {
+    width:33%;
+    text-align: center;
+    float:left;
+    color: #43375f;
+}
+#face2 
+{
+    float:right;
+}
+
+#face3 
+{
+      width: 95%;
+    height: 55%;
+}
+
+
+
+
+#main_logo 
+{
+    width: 100%;
+    height: 40%;
+    background-image: url(pics/mainLogo.jpg);
+    background-repeat:round;
+}
+
+p1 
+{
+    text-align: center;
+    font-size: 120%;
+}
+
+h1 
+{
+    text-align:center;
+     color: mediumpurple;
+}
+
+p 
+{
+    text-align: right;
+    text-align: center;
+    font-size: 105%;
+}
+
+
+
+
+
+#fatlose 
+{
+    width:auto;
+    height: 80%;
+}
+
+#face1 
+{
+    float:left;
+}
+
+
+
+
+#left 
+{
+    float:right;
+    width:30%;
+}
+
+
+
+h2 
+{
+    text-align: center;
+}
+
+#footerinfo 
+{
+    width:100%;
+    background-image: url(pics/button%20for%20services.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#treatmenType2line 
+{
+    width: 100%;
+    height: 20%;
+}
+
+#treatmenTipe
+{
+    width: 100%;
+    height: 20%;
+    float:left;
+}
+
+#lesfooter 
+{
+    
+    width:100%;
+    height:10%;
+
+}
+
+
+
+
+
